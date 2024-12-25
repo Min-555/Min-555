@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- 🔭 I’m currently studying as a master student in Complex Adaptive System.
+- 🌱 I’m currently learning Simulation of Complex System and Dynamical Systems.
+
+  
 <!--
 **Min-555/Min-555** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
