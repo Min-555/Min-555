@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-- 🔭 I’m currently studying as a master student in Complex Adaptive System.
-- 🌱 I’m currently learning Simulation of Complex System and Dynamical Systems.
+- 🔭 I’m currently pursuing a master's degree in Complex Adaptive Systems.
+- 🌱 I’m currently learning Simulation of Complex Systems and Dynamical Systems.
 
   
 <!--
